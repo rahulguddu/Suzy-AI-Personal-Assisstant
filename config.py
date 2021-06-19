@@ -1,0 +1,2 @@
+Chrome_Profile_Path = "user-data-dir=C:\\Users\\Rahul\\AppData\\Local\\Google\\Chrome\\User Data\\Wtsp"
+Chrome_Profile_Path_1 = "user-data-dir=C:\\Users\\Rahul\\AppData\\Local\\Google\\Chrome\\User Data\\linkedin"
